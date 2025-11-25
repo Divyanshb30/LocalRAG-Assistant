@@ -5,11 +5,11 @@ A powerful local AI knowledge assistant with RAG (Retrieval-Augmented Generation
 
 ##  Features
 
-- ** Document Q&A**: Ask questions about your documents using semantic search (FAISS vector database)
-- ** Smart Summarization**: Automatically summarize long documents and extract key insights
-- ** Task Breakdown**: Convert requirements into structured development tasks
-- ** CSV Analysis**: Analyze data files with natural language queries
-- ** 100% Local**: Runs entirely on your machine - no API keys, no internet required
+- **Document Q&A**: Ask questions about your documents using semantic search (FAISS vector database)
+- **Smart Summarization**: Automatically summarize long documents and extract key insights
+- **Task Breakdown**: Convert requirements into structured development tasks
+- **CSV Analysis**: Analyze data files with natural language queries
+- **100% Local**: Runs entirely on your machine - no API keys, no internet required
 
 ---
 
